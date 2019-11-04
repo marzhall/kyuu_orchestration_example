@@ -2,7 +2,8 @@
 
 ## Kyuu Example
 
-This is an example script of using the kyuu message queue
+This is an example script of using the 
+[kyuu message queue](https://github.com/marzhall/kyuu)
 for organizing two "worker" threads.
 
 ## The setup
