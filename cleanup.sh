@@ -1,3 +1,4 @@
 #!/bin/bash
-killall orchestrate.sh
-kyuu -r one two results
+killall start_pipeline.sh
+kyuu -r results
+kyuu -s
